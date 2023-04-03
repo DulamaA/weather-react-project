@@ -67,7 +67,12 @@ export default function Weather() {
       </div>
       <small>
         This project was coded by Antonina Dulama and is
-        <a href="https://github.com/DulamaA/my-weather-project" target="blank">
+        <a
+          href="https://github.com/DulamaA/weather-react-project"
+          target="_blank"
+          rel="noreferrer"
+        >
+          {" "}
           open-source code on GitHub
         </a>
       </small>
